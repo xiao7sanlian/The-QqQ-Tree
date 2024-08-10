@@ -23,7 +23,8 @@ let changelog = `<h1>Changelog:</h1><br>
 		- Endgame: e1.79e308 QqQe308...?<br>
 		- You can also try to get more QqQe308.`
 
-let winText = `恭喜！你励了！`
+let winText = `恭喜！你励了！<br>
+控制台输入QqQe308有彩蛋！`
 
 // If you add new functions anywhere inside of a layer, and those functions have an effect when called, add them here.
 // (The ones here are examples, all official functions are already taken care of)
